@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260419184249LM4BRM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260419184249WK86AD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA 1: &quot;From Egg to Butterfly: Our hungry caterpillar on the farm&quot;. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Isaac Martínez Gómez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775632558269</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1775632746134-vzewcn53l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA 1: &quot;From Egg to Butterfly: Our hungry caterpillar on the farm&quot;.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA 1: &quot;From Egg to Butterfly: Our hungry caterpillar on the farm&quot;.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775632757932-wx542y90e</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 1: &quot;Hello Caterpillar&quot;</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: &quot;Hello Caterpillar&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1: &quot;Hello Caterpillar&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775632757932-wx542y90e</odePageId>
+      <odeBlockId>block-1775632769118-4wd4e31xf</odeBlockId>
+      <blockName>Sesión 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775632757932-wx542y90e</odePageId>
+          <odeBlockId>block-1775632769118-4wd4e31xf</odeBlockId>
+          <odeIdeviceId>idevice-1775632769115-tdxlu1kq7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo (Aula)</dd></div></dl><p><span style="font-size: 14pt;"><em><strong>Actividad de impacto: </strong>"A mystery box has appeared!". </em></span></p>
+<p style="text-align: justify;">Para iniciar la Situación de Aprendizaje basada en el cuento <em>"The Very Hungry Caterpillar",</em> se realizará una actividad de impacto motivadora en la que el alumnado descubrirá un paquete sorpresa relacionado con la historia. A través de la exploración sensorial y la manipulación de objetos reales y de juguete, se despertará la curiosidad del grupo y se introducirá el vocabulario básico del cuento de manera lúdica y significativa.</p>
+<p><em><strong>Objetivos:</strong></em></p>
+<ul>
+<li>Despertar el interés y la motivación hacia el cuento infantil.</li>
+<li>Introducir de forma oral vocabulario básico en lengua inglesa. </li>
+<li>Favorecer la atención y la participación activa durante la asamblea.</li>
+<li>Estimular la curiosidad y la exploración sensorial.</li>
+<li>Iniciar la comprensión global del personaje principal y su historia.</li>
+</ul>
+<p style="text-align: justify;"><strong>Desarrollo:</strong></p>
+<p style="text-align: justify;">- <strong>Momento sorpresa:</strong> el docente entra al aula con una caja grande decorada con hojas, frutas y entera agujereada, y la coloca en el centro de la asamblea, generando expectación. Se realizan preguntas sencillas en inglés: “<em><strong>What is this? </strong></em><br />- <strong>Exploración guiada: </strong>se abre la caja poco a poco y se van sacando los elementos uno a uno. El docente nombra cada objeto en inglés y anima al alumnado a repetir: egg, apple, pear, strawberry…<br /><strong>- Aparición del personaje:</strong> se saca el peluche de la oruga y se realiza una breve dramatización. El docente interpreta a la oruga con frases simples:<em> “Hello! I’m a caterpillar!” / “I’m hungry!”.</em><br /><strong>- Juego simbólico:</strong> la oruga “come” algunas frutas (TPR - acompañando con sonidos divertidos "<em>ñam"</em>).<br />-<strong> Presentación del cuento:</strong> finalmente se muestra el libro y se anticipa lo que el alumnado conocerá:<br />“This is the story about a Very Hungry Caterpillar!” y se empieza el storytelling (TPR). </p>
+<p style="text-align: justify;"><em><strong>Atención a la diversidad (DUA):</strong></em><br />La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales.</p>
+<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>
+<ul>
+<li>La atención y curiosidad ante el paquete sorpresa.</li>
+<li>La participación en la exploración y manipulación de materiales.</li>
+<li>La repetición espontánea de palabras en inglés y su comprensión.</li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775632769115-tdxlu1kq7","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Gran grupo (Aula)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo (Aula)</dd></div></dl><p><span style=\"font-size: 14pt;\"><em><strong>Actividad de impacto: </strong>\"A mystery box has appeared!\". </em></span></p>\n<p style=\"text-align: justify;\">Para iniciar la Situación de Aprendizaje basada en el cuento <em>\"The Very Hungry Caterpillar\",</em> se realizará una actividad de impacto motivadora en la que el alumnado descubrirá un paquete sorpresa relacionado con la historia. A través de la exploración sensorial y la manipulación de objetos reales y de juguete, se despertará la curiosidad del grupo y se introducirá el vocabulario básico del cuento de manera lúdica y significativa.</p>\n<p><em><strong>Objetivos:</strong></em></p>\n<ul>\n<li>Despertar el interés y la motivación hacia el cuento infantil.</li>\n<li>Introducir de forma oral vocabulario básico en lengua inglesa. </li>\n<li>Favorecer la atención y la participación activa durante la asamblea.</li>\n<li>Estimular la curiosidad y la exploración sensorial.</li>\n<li>Iniciar la comprensión global del personaje principal y su historia.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Desarrollo:</strong></p>\n<p style=\"text-align: justify;\">- <strong>Momento sorpresa:</strong> el docente entra al aula con una caja grande decorada con hojas, frutas y entera agujereada, y la coloca en el centro de la asamblea, generando expectación. Se realizan preguntas sencillas en inglés: “<em><strong>What is this? </strong></em><br />- <strong>Exploración guiada: </strong>se abre la caja poco a poco y se van sacando los elementos uno a uno. El docente nombra cada objeto en inglés y anima al alumnado a repetir: egg, apple, pear, strawberry…<br /><strong>- Aparición del personaje:</strong> se saca el peluche de la oruga y se realiza una breve dramatización. El docente interpreta a la oruga con frases simples:<em> “Hello! I’m a caterpillar!” / “I’m hungry!”.</em><br /><strong>- Juego simbólico:</strong> la oruga “come” algunas frutas (TPR - acompañando con sonidos divertidos \"<em>ñam\"</em>).<br />-<strong> Presentación del cuento:</strong> finalmente se muestra el libro y se anticipa lo que el alumnado conocerá:<br />“This is the story about a Very Hungry Caterpillar!” y se empieza el storytelling (TPR). </p>\n<p style=\"text-align: justify;\"><em><strong>Atención a la diversidad (DUA):</strong></em><br />La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales.</p>\n<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>\n<ul>\n<li>La atención y curiosidad ante el paquete sorpresa.</li>\n<li>La participación en la exploración y manipulación de materiales.</li>\n<li>La repetición espontánea de palabras en inglés y su comprensión.</li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775632757932-wx542y90e</odePageId>
+      <odeBlockId>block-1775640120843-wtwwoykag</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775632757932-wx542y90e</odePageId>
+          <odeBlockId>block-1775640120843-wtwwoykag</odeBlockId>
+          <odeIdeviceId>idevice-1775640120841-d4rk97hvs</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Lista de cotejo</caption><thead><tr><th>&nbsp;</th><th>Nivel 1</th><th>Nivel 2</th><th>Nivel 3</th></tr></thead><tbody><tr><th>Muestra curiosidad e interés ante el paquete sorpresa</th><td>Si</td><td>En proceso</td><td>No</td></tr><tr><th>Participa de forma activa</th><td>Si</td><td>En proceso</td><td>No</td></tr><tr><th>Repite palabras en inglés de forma guiada</th><td>Si</td><td>En proceso</td><td>No</td></tr><tr><th>Comprende apoyos visuales y gestuales asociados al vocabulario</th><td>Si</td><td>En proceso</td><td>No</td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775640593817-le74udg2o</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 2: &quot;It&apos;s fruit day&quot;</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: &quot;It&apos;s fruit day&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2: &quot;It&apos;s fruit day&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775640593817-le74udg2o</odePageId>
+      <odeBlockId>block-1775727088875-ofomim23y</odeBlockId>
+      <blockName>Sesión 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640593817-le74udg2o</odePageId>
+          <odeBlockId>block-1775727088875-ofomim23y</odeBlockId>
+          <odeIdeviceId>idevice-1775727088867-twiibbf54</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual / pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>
+<p style="text-align: justify;">En esta segunda sesión de la Situación de Aprendizaje, se realizará una aproximación inicial al relato mediante un storytelling parcial, centrado en los primeros días de la historia (desde el inicio hasta que llega a comerse las frutas). A continuación, se presentará y trabajará el vocabulario relacionado con las frutas que aparecen en el cuento (apple, pear, plum, strawberry, orange) a través de un juego sensorial y manipulativo con frutas de verdad. </p>
+<p><em><strong>Objetivos:</strong></em></p>
+<ul>
+<li><em></em>Comprender de forma global una parte inicial del cuento mediante storytelling.</li>
+<li style="text-align: justify;">Identificar y nombrar frutas en lengua inglesa: apple, pear, plum, strawberry, orange.</li>
+<li>Favorecer la participación activa mediante juegos sensoriales y manipulativos.</li>
+<li>Potenciar la expresión oral a través de repetición de vocabulario.</li>
+</ul>
+<p><em><strong>Desarrollo:</strong></em></p>
+<p style="text-align: justify;"><em><strong>- Rutina inicial:</strong></em> se recuerda brevemente la aparición de la oruga y se anticipa la actividad del día: “Today is Fruit Day!”<br /><strong>- </strong><em><strong>Storytelling parcial:</strong></em> el docente narra y dramatiza los primeros momentos del cuento, apoyándose en imágenes y gestos (TPR). Se enfatiza la aparición de las frutas y se acompaña con repeticiones orales sencillas.<br /><strong>- </strong><em><strong>Presentación del vocabulario:</strong></em> se muestran una a una las frutas, nombrándolas en inglés y realizando repetición oral: apple, pear, plum, strawberry, orange.<br /><strong>- </strong><em><strong>Juego sensorial “Touch and find”</strong></em>: las frutas se colocan en la caja de la actividad de impacto. El alumnado va sacando una fruta, la observa y la nombra con ayuda del docente: <em>“It’s an apple!”.</em><br /></p>
+<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>
+<p style="text-align: justify;">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>
+<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>
+<ul>
+<li>La atención durante el storytelling.</li>
+<li>La participación en la exploración y manipulación de las frutas.</li>
+<li>La repetición de vocabulario en inglés, de forma guiada, y su comprensión.</li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775727088867-twiibbf54","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Individual / pequeño grupo (Aula de usos múltiples)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual / pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>\n<p style=\"text-align: justify;\">En esta segunda sesión de la Situación de Aprendizaje, se realizará una aproximación inicial al relato mediante un storytelling parcial, centrado en los primeros días de la historia (desde el inicio hasta que llega a comerse las frutas). A continuación, se presentará y trabajará el vocabulario relacionado con las frutas que aparecen en el cuento (apple, pear, plum, strawberry, orange) a través de un juego sensorial y manipulativo con frutas de verdad. </p>\n<p><em><strong>Objetivos:</strong></em></p>\n<ul>\n<li><em></em>Comprender de forma global una parte inicial del cuento mediante storytelling.</li>\n<li style=\"text-align: justify;\">Identificar y nombrar frutas en lengua inglesa: apple, pear, plum, strawberry, orange.</li>\n<li>Favorecer la participación activa mediante juegos sensoriales y manipulativos.</li>\n<li>Potenciar la expresión oral a través de repetición de vocabulario.</li>\n</ul>\n<p><em><strong>Desarrollo:</strong></em></p>\n<p style=\"text-align: justify;\"><em><strong>- Rutina inicial:</strong></em> se recuerda brevemente la aparición de la oruga y se anticipa la actividad del día: “Today is Fruit Day!”<br /><strong>- </strong><em><strong>Storytelling parcial:</strong></em> el docente narra y dramatiza los primeros momentos del cuento, apoyándose en imágenes y gestos (TPR). Se enfatiza la aparición de las frutas y se acompaña con repeticiones orales sencillas.<br /><strong>- </strong><em><strong>Presentación del vocabulario:</strong></em> se muestran una a una las frutas, nombrándolas en inglés y realizando repetición oral: apple, pear, plum, strawberry, orange.<br /><strong>- </strong><em><strong>Juego sensorial “Touch and find”</strong></em>: las frutas se colocan en la caja de la actividad de impacto. El alumnado va sacando una fruta, la observa y la nombra con ayuda del docente: <em>“It’s an apple!”.</em><br /></p>\n<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>\n<p style=\"text-align: justify;\">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>\n<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>\n<ul>\n<li>La atención durante el storytelling.</li>\n<li>La participación en la exploración y manipulación de las frutas.</li>\n<li>La repetición de vocabulario en inglés, de forma guiada, y su comprensión.</li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640593817-le74udg2o</odePageId>
+      <odeBlockId>block-1775752584426-4mtqgb16k</odeBlockId>
+      <blockName>Escala de estimación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640593817-le74udg2o</odePageId>
+          <odeBlockId>block-1775752584426-4mtqgb16k</odeBlockId>
+          <odeIdeviceId>idevice-1775752584425-05j7xwwfs</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Escala de estimación</caption><thead><tr><th>&nbsp;</th><th>Logrado</th><th>En desarrollo</th><th>Inicial</th></tr></thead><tbody><tr><th>Atención durante el storytelling 1</th><td>Mantiene atención y sigue el cuento con interés.</td><td>Su atención es intermitente.</td><td>Se distrae frecuentemente.</td></tr><tr><th>Participación en el juego sensorial</th><td>Manipula, explora y participa activamente.</td><td>Manipula con interés pero necesita guía.</td><td>Participa poco o rechaza manipular.</td></tr><tr><th>Uso/repetición de vocabulario (frutas)</th><td>Repite la mayoría de palabras trabajadas.</td><td>Repite algunas palabras con apoyo.</td><td>No repite o lo hace con dificultad.</td></tr><tr><th>Comprensión y uso de números (1-5)</th><td>Participa contando y mostrando dedos.</td><td>Cuenta con apoyo y modelado.</td><td>No participa en el conteo.</td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640593817-le74udg2o</odePageId>
+      <odeBlockId>block-1776543895090-zeplkqa3o</odeBlockId>
+      <blockName>Fruit puzzle</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640593817-le74udg2o</odePageId>
+          <odeBlockId>block-1776543895090-zeplkqa3o</odeBlockId>
+          <odeIdeviceId>idevice-1776543895090-vve03ycf4</odeIdeviceId>
+          <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776543895090-vve03ycf4" data-evaluationb="false" data-evaluationid="c8cbca44-7b2e-484a-8e9e-6fec457d8ddc"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve los siguientes puzles.</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%FE%FD%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%E2%E7%E8%FE%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E0%FD%E5%E1%B0%A8%A0%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F3%F0%F3%F7%A1%A0%A4%A1%BF%A6%AA%A4%AB%BF%A6%F7%A2%F1%BF%F0%A1%F3%F6%BF%A1%A1%A0%AA%A0%AB%F6%F3%A0%F7%A6%A5%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A4%AB%A2%A3%A0%F3%A7%AA%BF%F3%F1%F4%A6%BF%A6%A5%A2%F7%BF%AA%F6%F7%A4%BF%A4%A1%A4%A0%A2%A0%F4%AB%A6%F0%A7%AB%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F1%A5%F6%F0%A7%A3%F3%F1%BF%A7%A4%A2%F0%BF%A6%F6%F6%A5%BF%F0%F6%F6%F4%BF%F4%A3%A2%AA%A4%AA%AA%A3%AB%A3%A4%F3%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%AA%F3%A7%F1%A0%F7%A7%A4%BF%AA%F6%A1%A5%BF%A6%A1%F0%F1%BF%F0%A4%A7%F1%BF%A5%A7%A3%A2%F0%A5%AB%A5%F4%A2%F0%F3%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%AB%AB%A7%AB%F3%A5%F6%AA%BF%F1%A5%F1%A4%BF%A6%A6%F3%F6%BF%AB%A5%A5%A1%BF%A0%A5%A2%F4%AA%A4%F6%AA%A7%AB%AA%A1%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F1%AA%F1%F0%F1%F3%A6%A6%BF%A5%F0%A0%F7%BF%A6%AA%A6%F3%BF%AA%F7%AB%F7%BF%A4%F4%F7%F1%A6%A7%A5%F6%AA%F6%F6%F1%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A7%A6%A1%AA%AB%A7%A2%AB%A2%BF%E4%E4%F7%A2%A1%EB%F1%F4%A6%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/Manzana-roja-Tiendas-Punto-Mercashop.png.webp" class="js-hidden puzzle-LinkImagesDef">0</a><a href="{{context_path}}/content/resources/images.jpeg" class="js-hidden puzzle-LinkImagesDef">1</a><a href="{{context_path}}/content/resources/illawarra-plum-shiny-skin-on-600nw-2627175725.jpg.webp" class="js-hidden puzzle-LinkImagesDef">2</a><a href="{{context_path}}/content/resources/IMG_0408.jpg" class="js-hidden puzzle-LinkImagesDef">3</a><a href="{{context_path}}/content/resources/pngtree-realictic-delicious-orange-fruit-png-image_17191993.png" class="js-hidden puzzle-LinkImagesDef">4</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775640608069-2lx1ajstb</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 3: &quot;The week adventure&quot;</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: &quot;The week adventure&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3: &quot;The week adventure&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775640608069-2lx1ajstb</odePageId>
+      <odeBlockId>block-1775753143787-6rafr3b82</odeBlockId>
+      <blockName>Sesión 3</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640608069-2lx1ajstb</odePageId>
+          <odeBlockId>block-1775753143787-6rafr3b82</odeBlockId>
+          <odeIdeviceId>idevice-1775753143783-z200wj8ee</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>
+<p style="text-align: justify;">En esta tercera sesión de la Situación de Aprendizaje, se trabajará el vocabulario relacionado con los días de la semana a través de una propuesta musical y lúdica.</p>
+<p style="text-align: justify;">La sesión comenzará con una canción en inglés <strong>(Days of the Week Song)</strong> para favorecer la memorización mediante ritmo y repetición. Posteriormente, se presentarán tarjetas visuales donde se asociará cada día con un color (aquí tenemos como referencia la canción que trabajan en el aula diariamente para asociar un color a un día de la semana) reforzando así la comprensión a través de estímulos visuales.</p>
+<p style="text-align: justify;">Finalmente, el alumnado participará en un juego en la asamblea, en el que deberán ordenar los días de la semana utilizando las flashcards creadas, promoviendo la participación activa, la atención y el trabajo cooperativo.</p>
+<p style="text-align: justify;"><em><strong>Objetivos: </strong></em></p>
+<ul>
+<li style="text-align: justify;">Identificar y familiarizarse con los días de la semana en lengua inglesa.</li>
+<li style="text-align: justify;">Asociar cada día con una tarjeta visual (día + color).</li>
+<li style="text-align: justify;">Potenciar la atención, la escucha activa y el respeto de turnos.</li>
+<li style="text-align: justify;">Iniciar la comprensión de secuencias temporales (orden de los días).</li>
+</ul>
+<p style="text-align: justify;"><em><strong>Desarrollo:</strong></em><br /><em><strong>- Rutina inicial:</strong></em> se recuerda brevemente lo trabajado en las sesiones anteriores y se anticipa el tema del día: <em>“Today we learn the days of the week!”</em><br />- <em><strong>Canción “Days of the Week”: </strong></em>el alumnado escucha y repite la canción acompañada de gestos. Se repite varias veces para favorecer la memorización.<br /><em><strong>- Presentación de tarjetas (día + color): </strong></em>se muestran las tarjetas una a una, nombrando el día en inglés y asociándolo a un color: <em>“Monday – red” / “Tuesday – yellow”…</em><br />El alumnado repite de forma coral y señala el color correspondiente.<br /><em><strong>- Juego en la alfombra: </strong></em>“Put the days in order”: se colocan en el suelo las tarjetas de los días mezcladas. Por turnos, los niños y niñas deben elegir una tarjeta y colocarla en el lugar correcto siguiendo la secuencia semanal. El docente guía verbalmente con frases sencillas: “Monday first!” / “What’s next?”. <br /></p>
+<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>
+<p>La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>
+<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>
+<ul>
+<li>La participación en la canción y en el juego de los días de la semana.</li>
+<li>El reconocimiento de tarjetas día-color.</li>
+<li>La comprensión del orden secuencial de los días de la semana. </li>
+<li>El respeto de turnos y normas del juego.</li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775753143783-z200wj8ee","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Pequeño grupo (Aula de usos múltiples)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>\n<p style=\"text-align: justify;\">En esta tercera sesión de la Situación de Aprendizaje, se trabajará el vocabulario relacionado con los días de la semana a través de una propuesta musical y lúdica.</p>\n<p style=\"text-align: justify;\">La sesión comenzará con una canción en inglés <strong>(Days of the Week Song)</strong> para favorecer la memorización mediante ritmo y repetición. Posteriormente, se presentarán tarjetas visuales donde se asociará cada día con un color (aquí tenemos como referencia la canción que trabajan en el aula diariamente para asociar un color a un día de la semana) reforzando así la comprensión a través de estímulos visuales.</p>\n<p style=\"text-align: justify;\">Finalmente, el alumnado participará en un juego en la asamblea, en el que deberán ordenar los días de la semana utilizando las flashcards creadas, promoviendo la participación activa, la atención y el trabajo cooperativo.</p>\n<p style=\"text-align: justify;\"><em><strong>Objetivos: </strong></em></p>\n<ul>\n<li style=\"text-align: justify;\">Identificar y familiarizarse con los días de la semana en lengua inglesa.</li>\n<li style=\"text-align: justify;\">Asociar cada día con una tarjeta visual (día + color).</li>\n<li style=\"text-align: justify;\">Potenciar la atención, la escucha activa y el respeto de turnos.</li>\n<li style=\"text-align: justify;\">Iniciar la comprensión de secuencias temporales (orden de los días).</li>\n</ul>\n<p style=\"text-align: justify;\"><em><strong>Desarrollo:</strong></em><br /><em><strong>- Rutina inicial:</strong></em> se recuerda brevemente lo trabajado en las sesiones anteriores y se anticipa el tema del día: <em>“Today we learn the days of the week!”</em><br />- <em><strong>Canción “Days of the Week”: </strong></em>el alumnado escucha y repite la canción acompañada de gestos. Se repite varias veces para favorecer la memorización.<br /><em><strong>- Presentación de tarjetas (día + color): </strong></em>se muestran las tarjetas una a una, nombrando el día en inglés y asociándolo a un color: <em>“Monday – red” / “Tuesday – yellow”…</em><br />El alumnado repite de forma coral y señala el color correspondiente.<br /><em><strong>- Juego en la alfombra: </strong></em>“Put the days in order”: se colocan en el suelo las tarjetas de los días mezcladas. Por turnos, los niños y niñas deben elegir una tarjeta y colocarla en el lugar correcto siguiendo la secuencia semanal. El docente guía verbalmente con frases sencillas: “Monday first!” / “What’s next?”. <br /></p>\n<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>\n<p>La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>\n<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>\n<ul>\n<li>La participación en la canción y en el juego de los días de la semana.</li>\n<li>El reconocimiento de tarjetas día-color.</li>\n<li>La comprensión del orden secuencial de los días de la semana. </li>\n<li>El respeto de turnos y normas del juego.</li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640608069-2lx1ajstb</odePageId>
+      <odeBlockId>block-1776064866664-flpbu1as6</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640608069-2lx1ajstb</odePageId>
+          <odeBlockId>block-1776064866664-flpbu1as6</odeBlockId>
+          <odeIdeviceId>idevice-1776064866662-0aakkyieb</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Lista de cotejo</caption><thead><tr><th>&nbsp;</th><th>Si</th><th>No</th></tr></thead><tbody><tr><th>Participa en la canción de los días de la semana. </th><td>Si</td><td>No</td></tr><tr><th>Reconoce los días de la semana y los asocia a su color.</th><td>Si</td><td>No</td></tr><tr><th>Colabora en el juego de ordenar los días de la semana.</th><td>Si</td><td>No</td></tr><tr><th>Comprende la secuencia temporal (primero/después).</th><td>Si</td><td>No</td></tr><tr><th>Respeta turnos y normas durante el juego</th><td>Si</td><td>No</td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775640615451-gvynsi8e1</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 4: &quot;I&apos;m so hungry&quot;</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4: &quot;I&apos;m so hungry&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 4: &quot;I&apos;m so hungry&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775640615451-gvynsi8e1</odePageId>
+      <odeBlockId>block-1776064234684-aycdedo50</odeBlockId>
+      <blockName>Sesión 4</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640615451-gvynsi8e1</odePageId>
+          <odeBlockId>block-1776064234684-aycdedo50</odeBlockId>
+          <odeIdeviceId>idevice-1776064234679-2s7629c04</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo (Patio)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>
+<p style="text-align: justify;">En esta cuarta sesión de la Situación de Aprendizaje, se realizará el storytelling completo del cuento, favoreciendo la comprensión global de la historia mediante imágenes, dramatización y repetición guiada (TPR).</p>
+<p style="text-align: justify;">Posteriormente, se trabajará el conteo de las frutas que aparecen en el cuento, relacionando cantidad y vocabulario.</p>
+<p style="text-align: justify;">Como actividad principal, se desarrollará un juego motor titulado <em><strong>“I’m hungry!”,</strong></em> en el que el alumnado representará a la oruga y deberá desplazarse por el espacio para “comer” la fruta indicada por el docente, entrando en el aro correspondiente. </p>
+<p style="text-align: justify;"><em><strong>Objetivos:</strong></em></p>
+<ul>
+<li style="text-align: justify;"><em><strong></strong></em>Comprender de forma global el cuento "<em>The Very Hungry Caterpillar</em>" mediante storytelling completo.</li>
+<li style="text-align: justify;">Identificar y repasar el vocabulario de frutas trabajado en sesiones anteriores.</li>
+<li style="text-align: justify;">Reforzar el conteo de cantidades asociadas a las frutas del cuento.</li>
+<li style="text-align: justify;">Desarrollar la expresión corporal a través del juego.</li>
+<li style="text-align: justify;">Comprender y seguir órdenes sencillas en inglés.</li>
+</ul>
+<p><em><strong>Desarrollo:</strong></em></p>
+<p style="text-align: justify;">- <em><strong>Rutina inicial y motivación:</strong></em> se recuerda brevemente el personaje principal y se anticipa la sesión.<br />- <em><strong>Storytelling completo:</strong></em> el docente representa el cuento completo utilizando únicamente su cuerpo (TPR - gestos y repetición). Se fomenta la participación del alumnado mediante repeticiones sencillas. <br />- <em><strong>Conteo de frutas:</strong></em> una vez finalizado el cuento, se repasan las frutas y se realiza el conteo en voz alta siguiendo la historia: <em>"one apple, two pears, three plums, four strawberries, five oranges". </em>El alumnado acompaña mostrando los dedos y repitiendo el vocabulario.<br />- <strong><em>Preparación del juego motor: </em></strong>se colocan en el suelo 5 aros. Dentro de cada aro se sitúa una tarjeta o fruta de juguete correspondiente (aro de apple, aro de pear, etc.). Se explica la dinámica con apoyo gestual: “You are caterpillars!”. “Crawl like a caterpillar!”.<br />- <em><strong>Juego motor “I’m hungry!”: </strong></em>El alumnado se desplaza por el espacio imitando a una oruga (gateando o caminando despacio). El docente dice en voz alta la estructura oral: “The caterpillar eats… an apple!”. Los niños y niñas deben buscar el aro correcto y meterse dentro del aro de esa fruta.<br />- <em><strong>Vuelta a la calma: </strong></em>se realiza una repetición final señalando los aros: “The caterpillar eats apple… pear… strawberry…”. </p>
+<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>
+<p style="text-align: justify;">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>
+<p style="text-align: justify;"><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>
+<ul>
+<li style="text-align: justify;">La atención durante el storytelling completo. </li>
+<li style="text-align: justify;">La identificación y conteo de las frutas. </li>
+<li style="text-align: justify;">La comprensión de órdenes sencillas en inglés. </li>
+<li style="text-align: justify;">La participación en el juego motor. </li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776064234679-2s7629c04","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Gran grupo (Patio)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo (Patio)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>\n<p style=\"text-align: justify;\">En esta cuarta sesión de la Situación de Aprendizaje, se realizará el storytelling completo del cuento, favoreciendo la comprensión global de la historia mediante imágenes, dramatización y repetición guiada (TPR).</p>\n<p style=\"text-align: justify;\">Posteriormente, se trabajará el conteo de las frutas que aparecen en el cuento, relacionando cantidad y vocabulario.</p>\n<p style=\"text-align: justify;\">Como actividad principal, se desarrollará un juego motor titulado <em><strong>“I’m hungry!”,</strong></em> en el que el alumnado representará a la oruga y deberá desplazarse por el espacio para “comer” la fruta indicada por el docente, entrando en el aro correspondiente. </p>\n<p style=\"text-align: justify;\"><em><strong>Objetivos:</strong></em></p>\n<ul>\n<li style=\"text-align: justify;\"><em><strong></strong></em>Comprender de forma global el cuento \"<em>The Very Hungry Caterpillar</em>\" mediante storytelling completo.</li>\n<li style=\"text-align: justify;\">Identificar y repasar el vocabulario de frutas trabajado en sesiones anteriores.</li>\n<li style=\"text-align: justify;\">Reforzar el conteo de cantidades asociadas a las frutas del cuento.</li>\n<li style=\"text-align: justify;\">Desarrollar la expresión corporal a través del juego.</li>\n<li style=\"text-align: justify;\">Comprender y seguir órdenes sencillas en inglés.</li>\n</ul>\n<p><em><strong>Desarrollo:</strong></em></p>\n<p style=\"text-align: justify;\">- <em><strong>Rutina inicial y motivación:</strong></em> se recuerda brevemente el personaje principal y se anticipa la sesión.<br />- <em><strong>Storytelling completo:</strong></em> el docente representa el cuento completo utilizando únicamente su cuerpo (TPR - gestos y repetición). Se fomenta la participación del alumnado mediante repeticiones sencillas. <br />- <em><strong>Conteo de frutas:</strong></em> una vez finalizado el cuento, se repasan las frutas y se realiza el conteo en voz alta siguiendo la historia: <em>\"one apple, two pears, three plums, four strawberries, five oranges\". </em>El alumnado acompaña mostrando los dedos y repitiendo el vocabulario.<br />- <strong><em>Preparación del juego motor: </em></strong>se colocan en el suelo 5 aros. Dentro de cada aro se sitúa una tarjeta o fruta de juguete correspondiente (aro de apple, aro de pear, etc.). Se explica la dinámica con apoyo gestual: “You are caterpillars!”. “Crawl like a caterpillar!”.<br />- <em><strong>Juego motor “I’m hungry!”: </strong></em>El alumnado se desplaza por el espacio imitando a una oruga (gateando o caminando despacio). El docente dice en voz alta la estructura oral: “The caterpillar eats… an apple!”. Los niños y niñas deben buscar el aro correcto y meterse dentro del aro de esa fruta.<br />- <em><strong>Vuelta a la calma: </strong></em>se realiza una repetición final señalando los aros: “The caterpillar eats apple… pear… strawberry…”. </p>\n<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>\n<p style=\"text-align: justify;\">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>\n<p style=\"text-align: justify;\"><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>\n<ul>\n<li style=\"text-align: justify;\">La atención durante el storytelling completo. </li>\n<li style=\"text-align: justify;\">La identificación y conteo de las frutas. </li>\n<li style=\"text-align: justify;\">La comprensión de órdenes sencillas en inglés. </li>\n<li style=\"text-align: justify;\">La participación en el juego motor. </li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640615451-gvynsi8e1</odePageId>
+      <odeBlockId>block-1776066553991-mgvgvh11t</odeBlockId>
+      <blockName>Registro de participación oral</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640615451-gvynsi8e1</odePageId>
+          <odeBlockId>block-1776066553991-mgvgvh11t</odeBlockId>
+          <odeIdeviceId>idevice-1776066553989-wwq8op98n</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p class="exe-rubrics-instructions">Escala de valoración ----> 0 = No participa oralmente // 1 = Participa con apoyo (repite parcialmente, susurra, necesita modelado) // 2 = Participa de forma autónoma (repite con claridad o inicia expresiones)</p><table class='exe-table'><caption>Registro de participación oral</caption><thead><tr><th>&nbsp;</th><th>Vocabulario de frutas</th><th>Conteo de números</th><th>Estructura </th></tr></thead><tbody><tr><th>Alumna/o 1</th><td>0 - 1 - 2 </td><td>0 - 1 - 2 </td><td>0 - 1 - 2 </td></tr><tr><th>Alumna/o 2</th><td>0 - 1 - 2 </td><td>0 - 1 - 2 </td><td>0 - 1 - 2 </td></tr><tr><th>Alumna/o 3</th><td>0 - 1 - 2 </td><td>0 - 1 - 2 </td><td>0 - 1 - 2 </td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775640622617-f3bxmqzu1</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 5: &quot;Life cicle craft&quot;</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5: &quot;Life cicle craft&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 5: &quot;Life cicle craft&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775640622617-f3bxmqzu1</odePageId>
+      <odeBlockId>block-1776064347912-xni79gob9</odeBlockId>
+      <blockName>Sesión 5</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640622617-f3bxmqzu1</odePageId>
+          <odeBlockId>block-1776064347912-xni79gob9</odeBlockId>
+          <odeIdeviceId>idevice-1776064347911-tdznux12t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo (Aula)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>
+<p style="text-align: justify;">En esta quinta sesión de la Situación de Aprendizaje, el alumnado descubrirá de manera visual y manipulativa el <em>ciclo de vida de la oruga.</em></p>
+<p style="text-align: justify;">La sesión comenzará con una presentación visual de las cuatro fases principales (egg, caterpillar, cocoon, butterfly), apoyada en imágenes y lenguaje sencillo en inglés.</p>
+<p style="text-align: justify;">Posteriormente, se realizará una manualidad cooperativa, elaborando un mural grupal con las cuatro fases del ciclo, fomentando el trabajo en equipo, la creatividad y la expresión oral mediante repetición de vocabulario.</p>
+<p style="text-align: justify;"><em><strong>Objetivos: </strong></em></p>
+<ul>
+<li style="text-align: justify;">Conocer e identificar las fases del ciclo de vida de la mariposa. </li>
+<li style="text-align: justify;">Adquirir el vocabulario básico relacionado con el ciclo vital. </li>
+<li style="text-align: justify;">Favorecer la cooperación y el trabajo en equipo a través de un mural colectivo. </li>
+</ul>
+<p style="text-align: justify;"><em><strong>Desarrollo: </strong></em><br />- <em><strong>Rutina inicial y motivación:</strong></em> se recuerda brevemente el final del cuento y se introduce la idea principal: "It’s a life cycle!”.<br />- <em><strong>Presentación visual del ciclo de vida: </strong></em>el docente muestra imágenes del ciclo y nombra cada fase en inglés, acompañando con gestos y repetición oral: "<em>egg → caterpillar → cocoon → butterfly"</em>. Se repite varias veces y se señala el orden.<br />- <em><strong>Asamblea interactiva:</strong></em> el alumnado participa señalando imágenes mientras la docente pregunta:<br />“What is it?” / “Egg!”. Se refuerza la secuencia con expresiones sencillas: There are 4 steps: “First (1)... then (2)… next (3)… finally (4)…” <br />- <em><strong>Manualidad cooperativa (mural):</strong></em> se divide la clase en 4 grupos. Cada grupo elabora una fase del ciclo:</p>
+<ul>
+<li style="text-align: justify;">Grupo 1: Egg</li>
+<li style="text-align: justify;">Grupo 2: Caterpillar</li>
+<li style="text-align: justify;">Grupo 3: Cocoon </li>
+<li>Grupo 4: Butterfly</li>
+</ul>
+<p>Cada equipo crea su parte con diferentes técnicas (rasgado, collage, pintura, algodón, gomets…).<br />- <em>Montaje del mural:</em> se unen las cuatro partes en una cartulina grande formando el ciclo completo. Se colocan los nombres en inglés junto a cada fase.<br />- <em>Presentación final:</em> en gran grupo, se observa el mural terminado y se repasa el vocabulario señalando cada fase.<br /></p>
+<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>
+<p style="text-align: justify;">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>
+<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>
+<ul>
+<li style="text-align: justify;">Identificación visual de las fases del ciclo. </li>
+<li style="text-align: justify;">Participación en la repetición de vocabulario en inglés. </li>
+<li style="text-align: justify;">Colaboración y participación en el trabajo grupal. </li>
+<li style="text-align: justify;">Interés y actitud positiva hacia la actividad.  </li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776064347911-tdznux12t","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Gran grupo (Aula)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo (Aula)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>\n<p style=\"text-align: justify;\">En esta quinta sesión de la Situación de Aprendizaje, el alumnado descubrirá de manera visual y manipulativa el <em>ciclo de vida de la oruga.</em></p>\n<p style=\"text-align: justify;\">La sesión comenzará con una presentación visual de las cuatro fases principales (egg, caterpillar, cocoon, butterfly), apoyada en imágenes y lenguaje sencillo en inglés.</p>\n<p style=\"text-align: justify;\">Posteriormente, se realizará una manualidad cooperativa, elaborando un mural grupal con las cuatro fases del ciclo, fomentando el trabajo en equipo, la creatividad y la expresión oral mediante repetición de vocabulario.</p>\n<p style=\"text-align: justify;\"><em><strong>Objetivos: </strong></em></p>\n<ul>\n<li style=\"text-align: justify;\">Conocer e identificar las fases del ciclo de vida de la mariposa. </li>\n<li style=\"text-align: justify;\">Adquirir el vocabulario básico relacionado con el ciclo vital. </li>\n<li style=\"text-align: justify;\">Favorecer la cooperación y el trabajo en equipo a través de un mural colectivo. </li>\n</ul>\n<p style=\"text-align: justify;\"><em><strong>Desarrollo: </strong></em><br />- <em><strong>Rutina inicial y motivación:</strong></em> se recuerda brevemente el final del cuento y se introduce la idea principal: \"It’s a life cycle!”.<br />- <em><strong>Presentación visual del ciclo de vida: </strong></em>el docente muestra imágenes del ciclo y nombra cada fase en inglés, acompañando con gestos y repetición oral: \"<em>egg → caterpillar → cocoon → butterfly\"</em>. Se repite varias veces y se señala el orden.<br />- <em><strong>Asamblea interactiva:</strong></em> el alumnado participa señalando imágenes mientras la docente pregunta:<br />“What is it?” / “Egg!”. Se refuerza la secuencia con expresiones sencillas: There are 4 steps: “First (1)... then (2)… next (3)… finally (4)…” <br />- <em><strong>Manualidad cooperativa (mural):</strong></em> se divide la clase en 4 grupos. Cada grupo elabora una fase del ciclo:</p>\n<ul>\n<li style=\"text-align: justify;\">Grupo 1: Egg</li>\n<li style=\"text-align: justify;\">Grupo 2: Caterpillar</li>\n<li style=\"text-align: justify;\">Grupo 3: Cocoon </li>\n<li>Grupo 4: Butterfly</li>\n</ul>\n<p>Cada equipo crea su parte con diferentes técnicas (rasgado, collage, pintura, algodón, gomets…).<br />- <em>Montaje del mural:</em> se unen las cuatro partes en una cartulina grande formando el ciclo completo. Se colocan los nombres en inglés junto a cada fase.<br />- <em>Presentación final:</em> en gran grupo, se observa el mural terminado y se repasa el vocabulario señalando cada fase.<br /></p>\n<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>\n<p style=\"text-align: justify;\">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>\n<p><em><strong>Evaluación:</strong></em><br />Se valorará mediante observación directa:</p>\n<ul>\n<li style=\"text-align: justify;\">Identificación visual de las fases del ciclo. </li>\n<li style=\"text-align: justify;\">Participación en la repetición de vocabulario en inglés. </li>\n<li style=\"text-align: justify;\">Colaboración y participación en el trabajo grupal. </li>\n<li style=\"text-align: justify;\">Interés y actitud positiva hacia la actividad.  </li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640622617-f3bxmqzu1</odePageId>
+      <odeBlockId>block-1776073211337-mm18ut02r</odeBlockId>
+      <blockName>Escala de estimación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640622617-f3bxmqzu1</odePageId>
+          <odeBlockId>block-1776073211337-mm18ut02r</odeBlockId>
+          <odeIdeviceId>idevice-1776073201243-352m7cxgk</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Escala de estimación</caption><thead><tr><th>&nbsp;</th><th>Logrado</th><th>En desarrollo</th><th>Inicial</th></tr></thead><tbody><tr><th>Reconoce visualmente las fases del ciclo de vida</th><td>Identifica la mayoría de fases.</td><td>Identifica algunas con apoyo.</td><td>No identifica las fases.</td></tr><tr><th>Repite vocabulario en inglés (egg, caterpillar, cocoon, butterfly)</th><td>Repite varias de forma autónoma.</td><td>Repite algunas con apoyo.</td><td>No repite palabras.</td></tr><tr><th>Participa en la manualidad cooperativa</th><td>Participa activamente en su equipo.</td><td>Participa con ayuda y guía.</td><td>Participación escasa.</td></tr><tr><th>Muestra interés y disfrute durante la actividad</th><td>Muestra entusiasmo y motivación.</td><td>Interés variable.</td><td>Poco interés.</td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640622617-f3bxmqzu1</odePageId>
+      <odeBlockId>block-1776545165756-zb5zbleom</odeBlockId>
+      <blockName>Ordena</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640622617-f3bxmqzu1</odePageId>
+          <odeBlockId>block-1776545165756-zb5zbleom</odeBlockId>
+          <odeIdeviceId>idevice-1776545165754-dkmb1vqid</odeIdeviceId>
+          <odeIdeviceTypeName>sort</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="ordena-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776545165754-dkmb1vqid" data-evaluationb="false" data-evaluationid="c8cbca44-7b2e-484a-8e9e-6fec457d8ddc"></div><div class="ordena-feedback-game"></div><div class="ordena-instructions"><p>Arrastra cada carta hasta su posición correcta</p></div><div class="ordena-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DD%E0%F6%F7%FC%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D3%E0%E0%F3%E1%E6%E0%F3%B2%F1%F3%F6%F3%B2%F1%F3%E0%E6%F3%B2%FA%F3%E1%E6%F3%B2%E1%E7%B2%E2%FD%E1%FB%F1%FBa%FC%B2%F1%FD%E0%E0%F7%F1%E6%F3%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%FA%E0%F3%E1%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%F1%F3%E0%F6%E1%B0%A8%C9%E9%B0%FB%F6%B0%A8%A0%A1%A3%A6%A4%A6%A4%AA%A2%A3%A0%A3%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F1%AA%A2%AB%F6%F7%A4%AB%BF%A2%A5%A2%A1%BF%A1%F1%A2%A3%BF%AA%A7%AA%A3%BF%A1%F1%A6%F6%F7%A7%AB%A2%F7%F4%F7%A4%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%FB%F6%B0%A8%A3%A0%A2%A0%A7%A0%A2%A1%A6%A5%A2%AB%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F3%F6%A4%A7%A6%A4%F4%A6%BF%A5%F4%A3%F0%BF%AA%A6%F0%A5%BF%A7%A2%A6%A1%BF%AA%A6%A0%A1%AB%F0%A5%A2%F7%A7%F4%F7%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%FB%F6%B0%A8%A6%A4%A3%AA%A7%A4%A3%A7%A2%AA%AB%A3%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F0%A4%A3%A4%F1%AA%A4%F6%BF%F3%A5%AA%AB%BF%F1%F1%F0%A0%BF%F4%F6%AA%AB%BF%F4%AB%AB%A6%A1%A6%A3%F0%F6%F0%A4%F4%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%FB%F6%B0%A8%A3%A0%AB%A7%AA%A7%A2%AB%A4%A1%A3%AB%A7%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A6%A7%AA%F0%A3%A1%AB%AA%BF%A2%F3%F1%A4%BF%A0%AB%F3%A6%BF%A2%A0%F0%A4%BF%A5%A4%A3%F4%F6%F0%A1%AA%A7%F0%AA%A1%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%FA%E0%F3%E1%F7%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%DA%FB%E6%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BC%A7%BE%B0%FF%F3%EA%C5%FB%F6%E6%FA%B0%A8%E6%E0%E7%F7%BE%B0%F1%F3%E0%F6%DA%F7%FB%F5%FA%E6%B0%A8%A0%A2%A2%BE%B0%E1%E6%F3%E0%E6%D3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FE%FE%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E0%F6%F7%E0%F7%F6%D1%FD%FE%E7%FF%FC%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F5%F3%FF%F7%D1%FD%FE%E7%FF%FC%E1%B0%A8%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F1%AA%F1%F0%F1%F3%A6%A6%BF%A5%F0%A0%F7%BF%A6%AA%A6%F3%BF%AA%F7%AB%F7%BF%A4%F4%F7%F1%A6%A7%A5%F6%AA%F6%F6%F1%B0%BE%B0%E5%FD%E0%F6%D0%FD%E0%F6%F7%E0%B0%A8%E6%E0%E7%F7%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A7%A6%A7%A3%A4%A7%A5%A7%A6%BF%F6%F9%FF%F0%A3%E4%E3%FB%F6%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D3%E6%E6%F7%FF%E2%E1%B0%A8%B03%DA%F3%E1%B2%F3%F5%FD%E6%F3%F6%FD%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%B3%B2%C2%E0%E7%F7%F0%F3%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%FA%E0%F3%E1%F7%E1%B0%A8%B03%DA%F3%E1%B2%FD%E0%F6%F7%FC%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E6%E1%B0%A8%B0%DB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%DC%F7%EA%E6%C2%FA%E0%F3%E1%F7%B0%A8%B0%C2%E0a%EA%FB%FF%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%E1%FB%E6%FB%FD%FC%E1%B0%A8%B0%C2%FD%E1%FB%F1%FB%FD%FC%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B0%BE%B0%FF%E1%F5%D3%FE%FE%DD%D9%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%C6%FD%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%FD%B23%D3%B2%E2%FD%E0%B2%FD%E6%E0%F3%B3%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C2%FA%E0%F3%E1%F7%E1%B0%A8%B0%D4%E0%F3%E1%F7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DD%E0%F6%F7%FC%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/Egg-large-M.Solensky-Cropped.jpg" class="js-hidden ordena-LinkImages-0">0</a><a href="{{context_path}}/content/resources/Chenille_de_Grand_porte_queue_(macaon).jpg" class="js-hidden ordena-LinkImages-0">1</a><a href="{{context_path}}/content/resources/0bd47623.jpg" class="js-hidden ordena-LinkImages-0">2</a><a href="{{context_path}}/content/resources/mariposa-monarca.jpg" class="js-hidden ordena-LinkImages-0">3</a><div class="ordena-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775640628379-p3iibv5md</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 6: &quot;Interactive infographic&quot;</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6: &quot;Interactive infographic&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 6: &quot;Interactive infographic&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775640628379-p3iibv5md</odePageId>
+      <odeBlockId>block-1776064375845-rpd4lgl3v</odeBlockId>
+      <blockName>Sesión 6</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640628379-p3iibv5md</odePageId>
+          <odeBlockId>block-1776064375845-rpd4lgl3v</odeBlockId>
+          <odeIdeviceId>idevice-1776064375844-kvq84lvbs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p style="text-align: justify;"><em><strong>Descripción de la sesión:</strong></em><br />En esta sexta sesión de la Situación de Aprendizaje, el alumnado elaborará de manera cooperativa una infografía interactiva como producto final del proyecto.</p>
+<p style="text-align: justify;">La actividad consistirá en crear un mural visual con imágenes grandes y pocas palabras en inglés, recogiendo los aprendizajes principales trabajados durante las sesiones anteriores. </p>
+<p style="text-align: justify;">El objetivo es favorecer la comprensión y expresión oral a través de un soporte visual accesible y manipulativo, que podrá utilizarse posteriormente como recurso de aula para repasar vocabulario y rutinas.</p>
+<p style="text-align: justify;"><em><strong>Objetivos: </strong></em></p>
+<ul>
+<li style="text-align: justify;">Elaborar un producto final cooperativo que recoja los aprendizajes del proyecto.<br /></li>
+<li style="text-align: justify;">Reforzar el vocabulario trabajado en inglés de forma global (fruits, days, numbers, life cycle).<br /></li>
+<li style="text-align: justify;">Favorecer la expresión oral a través de imágenes y palabras clave.<br /></li>
+</ul>
+<p style="text-align: justify;"><em><strong>Desarrollo:</strong></em><br />- <em><strong>Rutina inicial y recordatorio: </strong></em>en asamblea, el docente repasa lo aprendido con preguntas sencillas y apoyo visual: “What did the caterpillar eat?”...<br />- <em><strong>Presentación de la tarea final: </strong></em>se explica que se va a crear un mural especial. Se muestra un ejemplo sencillo o se explica que tendrá imágenes grandes y pocas palabras.<br />- <em><strong>Organización por secciones:</strong></em> se divide la infografía en partes, por ejemplo:</p>
+<ul>
+<li style="text-align: justify;">The Caterpillar (Fruits, Numbers and Days of the week).</li>
+<li style="text-align: justify;">Life cycle</li>
+</ul>
+<p style="text-align: justify;">- <em><strong>Creación de la infografía (Genially):</strong></em> el alumnado pone imágenes grandes y añade únicamente palabras clave en inglés (sin frases largas).<br />Ejemplo de palabras: caterpillar, hungry, apple, pear, plum, strawberry, orange, one, two, three, four, five, Monday, Tuesday…, egg, cocoon, butterfly.<br />- <em><strong>Presentación final oral:</strong></em> en gran grupo repetimos el vocabulario con ayuda del docente. Se realiza un repaso global señalando toda la infografía.<br /><br /></p>
+<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>
+<p style="text-align: justify;">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>
+<p style="text-align: justify;"><em><strong>Evaluación:</strong></em> <br />Se valorará mediante observación:</p>
+<ul>
+<li style="text-align: justify;">Participación activa en la creación de la infografía. </li>
+<li style="text-align: justify;">Uso o repetición de vocabulario en inglés durante la creación. </li>
+<li style="text-align: justify;">Comprensión de la relación imagen-palabra.<br /></li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776064375844-kvq84lvbs","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Pequeño grupo (Aula de usos múltiples)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p style=\"text-align: justify;\"><em><strong>Descripción de la sesión:</strong></em><br />En esta sexta sesión de la Situación de Aprendizaje, el alumnado elaborará de manera cooperativa una infografía interactiva como producto final del proyecto.</p>\n<p style=\"text-align: justify;\">La actividad consistirá en crear un mural visual con imágenes grandes y pocas palabras en inglés, recogiendo los aprendizajes principales trabajados durante las sesiones anteriores. </p>\n<p style=\"text-align: justify;\">El objetivo es favorecer la comprensión y expresión oral a través de un soporte visual accesible y manipulativo, que podrá utilizarse posteriormente como recurso de aula para repasar vocabulario y rutinas.</p>\n<p style=\"text-align: justify;\"><em><strong>Objetivos: </strong></em></p>\n<ul>\n<li style=\"text-align: justify;\">Elaborar un producto final cooperativo que recoja los aprendizajes del proyecto.<br /></li>\n<li style=\"text-align: justify;\">Reforzar el vocabulario trabajado en inglés de forma global (fruits, days, numbers, life cycle).<br /></li>\n<li style=\"text-align: justify;\">Favorecer la expresión oral a través de imágenes y palabras clave.<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><em><strong>Desarrollo:</strong></em><br />- <em><strong>Rutina inicial y recordatorio: </strong></em>en asamblea, el docente repasa lo aprendido con preguntas sencillas y apoyo visual: “What did the caterpillar eat?”...<br />- <em><strong>Presentación de la tarea final: </strong></em>se explica que se va a crear un mural especial. Se muestra un ejemplo sencillo o se explica que tendrá imágenes grandes y pocas palabras.<br />- <em><strong>Organización por secciones:</strong></em> se divide la infografía en partes, por ejemplo:</p>\n<ul>\n<li style=\"text-align: justify;\">The Caterpillar (Fruits, Numbers and Days of the week).</li>\n<li style=\"text-align: justify;\">Life cycle</li>\n</ul>\n<p style=\"text-align: justify;\">- <em><strong>Creación de la infografía (Genially):</strong></em> el alumnado pone imágenes grandes y añade únicamente palabras clave en inglés (sin frases largas).<br />Ejemplo de palabras: caterpillar, hungry, apple, pear, plum, strawberry, orange, one, two, three, four, five, Monday, Tuesday…, egg, cocoon, butterfly.<br />- <em><strong>Presentación final oral:</strong></em> en gran grupo repetimos el vocabulario con ayuda del docente. Se realiza un repaso global señalando toda la infografía.<br /><br /></p>\n<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>\n<p style=\"text-align: justify;\">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>\n<p style=\"text-align: justify;\"><em><strong>Evaluación:</strong></em> <br />Se valorará mediante observación:</p>\n<ul>\n<li style=\"text-align: justify;\">Participación activa en la creación de la infografía. </li>\n<li style=\"text-align: justify;\">Uso o repetición de vocabulario en inglés durante la creación. </li>\n<li style=\"text-align: justify;\">Comprensión de la relación imagen-palabra.<br /></li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640628379-p3iibv5md</odePageId>
+      <odeBlockId>block-1776113629091-t7jfbglrn</odeBlockId>
+      <blockName>Rúbrica de autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640628379-p3iibv5md</odePageId>
+          <odeBlockId>block-1776113629091-t7jfbglrn</odeBlockId>
+          <odeIdeviceId>idevice-1776113629085-3vukf1hcp</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>1 pregunta - 3 caritas</caption><thead><tr><th>&nbsp;</th><th>Wonderful </th><th>Good </th><th>I don't like it </th></tr></thead><tbody><tr><th>Have you enjoyed the activity?</th><td>🤩</td><td>🙂</td><td>☹️</td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775640636882-cizmtuig1</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 7: &quot;Drama rehearsal&quot;</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7: &quot;Drama rehearsal&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 7: &quot;Drama rehearsal&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775640636882-cizmtuig1</odePageId>
+      <odeBlockId>block-1776064409296-wg99f6auc</odeBlockId>
+      <blockName>Sesión 7</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640636882-cizmtuig1</odePageId>
+          <odeBlockId>block-1776064409296-wg99f6auc</odeBlockId>
+          <odeIdeviceId>idevice-1776064409294-o1d97jm8a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>
+<p style="text-align: justify;">En esta séptima sesión de la Situación de Aprendizaje, el alumnado participará en un ensayo dramático como preparación para una representación final.</p>
+<p style="text-align: justify;">La sesión se centrará en la asignación de frases breves y repetitivas a cada alumna y alumno adaptadas a la edad. A través del ensayo guiado, el alumnado practicará el orden de intervención, favoreciendo la memoria, la atención y la expresión oral en lengua inglesa, siempre desde un enfoque lúdico y cooperativo.</p>
+<p style="text-align: justify;"><em><strong>Objetivos:</strong></em> </p>
+<ul>
+<li style="text-align: justify;">Participar en una dramatización sencilla basada en el cuento.</li>
+<li style="text-align: justify;">Reforzar la expresión oral mediante repetición de frases cortas en inglés.</li>
+<li style="text-align: justify;">Desarrollar habilidades sociales: cooperación, respeto de normas y escucha activa.</li>
+<li style="text-align: justify;">Disfrutar de la lengua inglesa a través del juego dramático.</li>
+</ul>
+<p style="text-align: justify;"><em><strong>Desarrollo:</strong></em><br />- <em><strong>Rutina inicial y motivación:</strong></em> se introduce la actividad anunciando que se va a preparar una obra. <br />- <em><strong>Asignación de frases:</strong></em> cada alumno/a recibe una frase corta asociada a su rol. Se practica de forma individual y grupal, con apoyo gestual y repetición oral. <em>Ejemplos de frases adaptadas:</em> “I’m hungry!”, “An apple!”, “On Monday…”, “I’m a butterfly!”.<br />- <em><strong>Ensayo del orden de intervención:</strong></em> se colocan los niños/as en fila o semicírculo siguiendo el orden del cuento. El docente guía el ensayo indicando quién habla primero y quién después, reforzando el concepto de secuencia y turnos: “<em>First… Monday. Next… Tuesday…”</em><br />- <em><strong>Ensayo completo guiado:</strong></em> se realiza una representación sencilla con apoyo del libro. El docente va dando entrada a cada alumno/a. Se repite el ensayo varias veces para afianzar la seguridad y el orden.<br /></p>
+<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>
+<p style="text-align: justify;">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>
+<p style="text-align: justify;"><em><strong>Evaluación: </strong></em><br />Se valorará mediante observación:</p>
+<ul>
+<li style="text-align: justify;">Repetición de la frase asignada en inglés (con apoyo o de forma autónoma).</li>
+<li style="text-align: justify;">Respeto del turno de intervención durante el ensayo.</li>
+<li style="text-align: justify;">Comprensión del orden secuencial del cuento.</li>
+<li style="text-align: justify;">Actitud cooperativa y respeto hacia el grupo.</li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776064409294-o1d97jm8a","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Pequeño grupo (Aula de usos múltiples)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>\n<p style=\"text-align: justify;\">En esta séptima sesión de la Situación de Aprendizaje, el alumnado participará en un ensayo dramático como preparación para una representación final.</p>\n<p style=\"text-align: justify;\">La sesión se centrará en la asignación de frases breves y repetitivas a cada alumna y alumno adaptadas a la edad. A través del ensayo guiado, el alumnado practicará el orden de intervención, favoreciendo la memoria, la atención y la expresión oral en lengua inglesa, siempre desde un enfoque lúdico y cooperativo.</p>\n<p style=\"text-align: justify;\"><em><strong>Objetivos:</strong></em> </p>\n<ul>\n<li style=\"text-align: justify;\">Participar en una dramatización sencilla basada en el cuento.</li>\n<li style=\"text-align: justify;\">Reforzar la expresión oral mediante repetición de frases cortas en inglés.</li>\n<li style=\"text-align: justify;\">Desarrollar habilidades sociales: cooperación, respeto de normas y escucha activa.</li>\n<li style=\"text-align: justify;\">Disfrutar de la lengua inglesa a través del juego dramático.</li>\n</ul>\n<p style=\"text-align: justify;\"><em><strong>Desarrollo:</strong></em><br />- <em><strong>Rutina inicial y motivación:</strong></em> se introduce la actividad anunciando que se va a preparar una obra. <br />- <em><strong>Asignación de frases:</strong></em> cada alumno/a recibe una frase corta asociada a su rol. Se practica de forma individual y grupal, con apoyo gestual y repetición oral. <em>Ejemplos de frases adaptadas:</em> “I’m hungry!”, “An apple!”, “On Monday…”, “I’m a butterfly!”.<br />- <em><strong>Ensayo del orden de intervención:</strong></em> se colocan los niños/as en fila o semicírculo siguiendo el orden del cuento. El docente guía el ensayo indicando quién habla primero y quién después, reforzando el concepto de secuencia y turnos: “<em>First… Monday. Next… Tuesday…”</em><br />- <em><strong>Ensayo completo guiado:</strong></em> se realiza una representación sencilla con apoyo del libro. El docente va dando entrada a cada alumno/a. Se repite el ensayo varias veces para afianzar la seguridad y el orden.<br /></p>\n<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>\n<p style=\"text-align: justify;\">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>\n<p style=\"text-align: justify;\"><em><strong>Evaluación: </strong></em><br />Se valorará mediante observación:</p>\n<ul>\n<li style=\"text-align: justify;\">Repetición de la frase asignada en inglés (con apoyo o de forma autónoma).</li>\n<li style=\"text-align: justify;\">Respeto del turno de intervención durante el ensayo.</li>\n<li style=\"text-align: justify;\">Comprensión del orden secuencial del cuento.</li>\n<li style=\"text-align: justify;\">Actitud cooperativa y respeto hacia el grupo.</li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640636882-cizmtuig1</odePageId>
+      <odeBlockId>block-1776113987301-praczc1r4</odeBlockId>
+      <blockName>Escala de valoración</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640636882-cizmtuig1</odePageId>
+          <odeBlockId>block-1776113987301-praczc1r4</odeBlockId>
+          <odeIdeviceId>idevice-1776113987298-bsrd74ef8</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p class="exe-rubrics-instructions">Marcar el nivel alcanzado por el alumnado: Nivel 1 (I watch 🥚): Observa, necesita mucha ayuda. // Nivel 2 (I try 🐛): Intenta decir su frase. // Nivel 3 (I can do it 🥟): Participa y dice su frase. // Nivel 4 (I shine 🦋): Participa con seguridad y ayuda al grupo.</p><table class='exe-table'><caption>Tabla de registro</caption><thead><tr><th>&nbsp;</th><th>1</th><th>2</th><th>3</th><th>4</th></tr></thead><tbody><tr><th>Alumno/a 1</th><td>🥚</td><td>🐛</td><td>🥟</td><td>🦋</td></tr><tr><th>Alumno/a 2</th><td>🥚</td><td>🐛</td><td>🥟</td><td>🦋</td></tr><tr><th>Alumno/a 3</th><td>🥚</td><td>🐛</td><td>🥟</td><td>🦋</td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775640644117-og5a6efcv</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Sesión 8: &quot;Recording day&quot;</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8: &quot;Recording day&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 8: &quot;Recording day&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775640644117-og5a6efcv</odePageId>
+      <odeBlockId>block-1776064436196-onidii1iv</odeBlockId>
+      <blockName>Sesión 8</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640644117-og5a6efcv</odePageId>
+          <odeBlockId>block-1776064436196-onidii1iv</odeBlockId>
+          <odeIdeviceId>idevice-1776064436194-hjvaovg7w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Temporalización">Temporalización</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>
+<p style="text-align: justify;">En esta octava sesión, y última, de la Situación de Aprendizaje basada en el cuento The Very Hungry Caterpillar, el alumnado participará en la grabación de un podcast grupal como producto digital final del proyecto.</p>
+<p style="text-align: justify;">La sesión se desarrollará en pequeños grupos, grabando el audio por partes (según frases trabajadas previamente). Para ello se utilizará la grabadora de la tablet como herramienta accesible y sencilla.</p>
+<p style="text-align: justify;">Posteriormente, el docente realizará el proceso de edición y montaje utilizando los programas Audacity (edición de audio) y VN (montaje final), integrando los fragmentos grabados para obtener un podcast completo. Esta actividad permite reforzar la expresión oral, la confianza comunicativa y la competencia digital desde un enfoque lúdico y motivador.</p>
+<p style="text-align: justify;"><em><strong>Objetivos: </strong></em></p>
+<ul>
+<li style="text-align: justify;">Participar en una grabación oral sencilla en lengua inglesa.</li>
+<li style="text-align: justify;">Reforzar la pronunciación y repetición de frases trabajadas en la dramatización. </li>
+<li style="text-align: justify;">Iniciar al alumnado en el uso educativo de herramientas digitales de forma guiada.</li>
+</ul>
+<p style="text-align: justify;"><em><strong>Desarrollo:</strong></em><br />- <em><strong>Rutina inicial y motivación: </strong></em>se explica al alumnado que hoy serán “podcasters”. Se recuerda la importancia de hablar despacio y con buena voz.<br />- <em><strong>Organización por grupos: </strong></em>se forman pequeños grupos y se asignan las partes del cuento a grabar. Cada niño/a repasa su intervención con apoyo de repetición guiada.<br />- <em><strong>Ensayo rápido antes de grabar:</strong></em> el docente repite con el grupo las frases clave para reforzar seguridad y pronunciación: “I’m hungry!”, “On Monday…”<br />- <em><strong>Grabación del podcast por partes:</strong></em> se realiza la grabación utilizando la grabadora de la tablet. Cada niño/a dice su frase en su turno.<br />- <em><strong>Recogida y guardado de audios:</strong></em> se nombran y guardan los audios por escenas para facilitar el montaje posterior.<br />- <em><strong>Edición y montaje</strong></em> (tarea docente): una vez finalizadas las grabaciones, el docente edita los audios en Audacity y realiza el montaje final con VN, integrando las partes grabadas en un único podcast.<br /></p>
+<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>
+<p style="text-align: justify;">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>
+<p><em><strong>Evaluación: </strong></em><br />Se valorará mediante observación:</p>
+<ul>
+<li style="text-align: justify;">Participación en la grabación oral.</li>
+<li style="text-align: justify;">Esfuerzo por pronunciar y repetir frases en inglés. </li>
+<li style="text-align: justify;">Respeto del turno y escucha activa. </li>
+<li style="text-align: justify;">Actitud positiva y colaboración en el trabajo en pequeño grupo. </li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776064436194-hjvaovg7w","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Temporalización","textInfoParticipantsInput":"Pequeño grupo (Aula de usos múltiples)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Temporalización\">Temporalización</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Pequeño grupo (Aula de usos múltiples)</dd></div></dl><p><em><strong>Descripción de la sesión:</strong></em></p>\n<p style=\"text-align: justify;\">En esta octava sesión, y última, de la Situación de Aprendizaje basada en el cuento The Very Hungry Caterpillar, el alumnado participará en la grabación de un podcast grupal como producto digital final del proyecto.</p>\n<p style=\"text-align: justify;\">La sesión se desarrollará en pequeños grupos, grabando el audio por partes (según frases trabajadas previamente). Para ello se utilizará la grabadora de la tablet como herramienta accesible y sencilla.</p>\n<p style=\"text-align: justify;\">Posteriormente, el docente realizará el proceso de edición y montaje utilizando los programas Audacity (edición de audio) y VN (montaje final), integrando los fragmentos grabados para obtener un podcast completo. Esta actividad permite reforzar la expresión oral, la confianza comunicativa y la competencia digital desde un enfoque lúdico y motivador.</p>\n<p style=\"text-align: justify;\"><em><strong>Objetivos: </strong></em></p>\n<ul>\n<li style=\"text-align: justify;\">Participar en una grabación oral sencilla en lengua inglesa.</li>\n<li style=\"text-align: justify;\">Reforzar la pronunciación y repetición de frases trabajadas en la dramatización. </li>\n<li style=\"text-align: justify;\">Iniciar al alumnado en el uso educativo de herramientas digitales de forma guiada.</li>\n</ul>\n<p style=\"text-align: justify;\"><em><strong>Desarrollo:</strong></em><br />- <em><strong>Rutina inicial y motivación: </strong></em>se explica al alumnado que hoy serán “podcasters”. Se recuerda la importancia de hablar despacio y con buena voz.<br />- <em><strong>Organización por grupos: </strong></em>se forman pequeños grupos y se asignan las partes del cuento a grabar. Cada niño/a repasa su intervención con apoyo de repetición guiada.<br />- <em><strong>Ensayo rápido antes de grabar:</strong></em> el docente repite con el grupo las frases clave para reforzar seguridad y pronunciación: “I’m hungry!”, “On Monday…”<br />- <em><strong>Grabación del podcast por partes:</strong></em> se realiza la grabación utilizando la grabadora de la tablet. Cada niño/a dice su frase en su turno.<br />- <em><strong>Recogida y guardado de audios:</strong></em> se nombran y guardan los audios por escenas para facilitar el montaje posterior.<br />- <em><strong>Edición y montaje</strong></em> (tarea docente): una vez finalizadas las grabaciones, el docente edita los audios en Audacity y realiza el montaje final con VN, integrando las partes grabadas en un único podcast.<br /></p>\n<p><em><strong>Atención a la diversidad (DUA):</strong></em></p>\n<p style=\"text-align: justify;\">La actividad permite la participación de todo el alumnado ya que se basa en la observación, manipulación y repetición oral. Se ofrecerá apoyo visual y gestual constante (TPR) favoreciendo la comprensión mediante rutinas, expresión corporal y objetos reales. Además, se da un refuerzo positivo y modelado verbal constante. </p>\n<p><em><strong>Evaluación: </strong></em><br />Se valorará mediante observación:</p>\n<ul>\n<li style=\"text-align: justify;\">Participación en la grabación oral.</li>\n<li style=\"text-align: justify;\">Esfuerzo por pronunciar y repetir frases en inglés. </li>\n<li style=\"text-align: justify;\">Respeto del turno y escucha activa. </li>\n<li style=\"text-align: justify;\">Actitud positiva y colaboración en el trabajo en pequeño grupo. </li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775640644117-og5a6efcv</odePageId>
+      <odeBlockId>block-1776117440582-vn4sqzgzm</odeBlockId>
+      <blockName>Diario de campo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775640644117-og5a6efcv</odePageId>
+          <odeBlockId>block-1776117440582-vn4sqzgzm</odeBlockId>
+          <odeIdeviceId>idevice-1776117440573-opqy61qst</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Descripción:</strong></em></p>
+<p style="text-align: justify;">El docente anota de forma breve y rápida incidencias relevantes durante la grabación del podcast: participación oral, actitud, colaboración y dificultades. Se registra por grupos para facilitar la organización.</p>
+<p>1. Participación oral</p>
+<p>¿Quién habla con seguridad?<br />¿Quién necesita apoyo para hablar?</p>
+<p>2. Pronunciación / repetición</p>
+<p>Palabras o frases que dicen bien:<br />Palabras que necesitan repetir:</p>
+<p>3. Actitud y comportamiento</p>
+<p>Respeto de turnos: ☐ Sí ☐ A veces ☐ No<br />Escucha durante la grabación: ☐ Sí ☐ A veces ☐ No</p>
+<p>4. Observaciones destacadas</p>
+<p>(timidez, emoción, motivación, mejora respecto a sesiones anteriores…)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776117440573-opqy61qst","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Descripción:</strong></em></p>\n<p style=\"text-align: justify;\">El docente anota de forma breve y rápida incidencias relevantes durante la grabación del podcast: participación oral, actitud, colaboración y dificultades. Se registra por grupos para facilitar la organización.</p>\n<p>1. Participación oral</p>\n<p>¿Quién habla con seguridad?<br />¿Quién necesita apoyo para hablar?</p>\n<p>2. Pronunciación / repetición</p>\n<p>Palabras o frases que dicen bien:<br />Palabras que necesitan repetir:</p>\n<p>3. Actitud y comportamiento</p>\n<p>Respeto de turnos: ☐ Sí ☐ A veces ☐ No<br />Escucha durante la grabación: ☐ Sí ☐ A veces ☐ No</p>\n<p>4. Observaciones destacadas</p>\n<p>(timidez, emoción, motivación, mejora respecto a sesiones anteriores…)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776615533642-z94fptcl2</odePageId>
+  <odeParentPageId>page-1775632746134-vzewcn53l</odeParentPageId>
+  <pageName>Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776615533642-z94fptcl2</odePageId>
+      <odeBlockId>block-1776615541927-yp92rhgde</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776615533642-z94fptcl2</odePageId>
+          <odeBlockId>block-1776615541927-yp92rhgde</odeBlockId>
+          <odeIdeviceId>idevice-1776615541925-fjkxx8urz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA 1: "From Egg to Butterfly: Our hungry caterpillar on the farm". </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Isaac Martínez Gómez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br></p>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
